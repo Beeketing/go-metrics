@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/DataDog/datadog-go/statsd"
-	"github.com/armon/go-metrics"
+	"github.com/Beeketing/datadog-go/statsd"
+	"github.com/Beeketing/go-metrics"
 )
 
 // DogStatsdSink provides a MetricSink that can be used

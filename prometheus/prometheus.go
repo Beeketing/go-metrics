@@ -10,8 +10,8 @@ import (
 
 	"regexp"
 
-	"github.com/armon/go-metrics"
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/Beeketing/go-metrics"
+	"github.com/Beeketing/client_golang/prometheus"
 )
 
 var (

@@ -5,8 +5,8 @@ package circonus
 import (
 	"strings"
 
-	"github.com/armon/go-metrics"
-	cgm "github.com/circonus-labs/circonus-gometrics"
+	"github.com/Beeketing/go-metrics"
+	cgm "github.com/Beeketing/circonus-gometrics"
 )
 
 // CirconusSink provides an interface to forward metrics to Circonus with
