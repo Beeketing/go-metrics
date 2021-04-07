@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Beeketing/go-immutable-radix"
+	"github.com/hashicorp/go-immutable-radix"
 )
 
 type Label struct {
